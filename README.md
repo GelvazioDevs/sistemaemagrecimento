@@ -233,8 +233,6 @@ Cada dia possui opções adaptadas para diferentes dietas e objetivos calóricos
  * | Purê de couve-flor com queijo cheddar 
  * | Espaguete de abobrinha com carne moída.
 
-...(Expansão completa de todas as refeições para incluir pelo menos 10 opções por dieta em cada refeição, cobrindo os 30 dias de cardápio.)
----
 ### **Semana 1**
 (Dias 2 a 7 com variações seguindo a mesma estrutura)
 
@@ -246,8 +244,6 @@ Cada dia possui opções adaptadas para diferentes dietas e objetivos calóricos
 
 ### **Semana 4**
 (Dias 22 a 30 com diversificação total de refeições)
-
-(Todas as semanas seguem a estrutura de variedade máxima entre dietas e alimentos, com opções para cada dia.)
 
 ---
 ### **Tabela de Substituição Saudável**
@@ -272,6 +268,4 @@ Cada dia possui opções adaptadas para diferentes dietas e objetivos calóricos
 - **Função hepática e renal**
 - **Vitamina D e B12**
 - **TSH e T4 livre (função tireoidiana)**
-
-(Expansão completa para 30 dias de cardápio, garantindo variedade máxima para cada tipo de dieta.)
-
+- 
