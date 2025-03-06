@@ -1,3 +1,97 @@
+**Principais tipos de Dieta**
+Aqui está a definição de cada tipo de dieta e como implementá-las de maneira prática:
+
+---
+
+### **1. Dieta Balanceada**
+#### **Definição:**
+A dieta balanceada é um estilo alimentar que prioriza o equilíbrio entre todos os grupos de nutrientes: carboidratos, proteínas, gorduras, vitaminas e minerais. O objetivo é fornecer ao corpo todos os nutrientes necessários para funcionar corretamente, sem restrições extremas.
+
+#### **Como fazer:**
+- **Distribuição de macronutrientes:** Aproximadamente 50-60% de carboidratos, 15-20% de proteínas e 20-30% de gorduras.
+- **Alimentos permitidos:**
+  - Carboidratos: arroz integral, quinoa, batata-doce, aveia, pães integrais.
+  - Proteínas: frango, peixe, ovos, carne magra, leguminosas (feijão, lentilha, grão-de-bico).
+  - Gorduras: abacate, azeite, oleaginosas (castanhas, nozes), sementes (chia, linhaça).
+  - Frutas e vegetais: variedade de cores e tipos para garantir vitaminas e minerais.
+- **Evitar:** Alimentos ultraprocessados, açúcares refinados e gorduras trans.
+- **Exemplo de dia:**
+  - Café da manhã: Mingau de aveia com frutas e sementes.
+  - Almoço: Arroz integral, feijão, frango grelhado e salada.
+  - Jantar: Peixe assado com legumes no vapor e quinoa.
+  - Lanches: Iogurte natural com granola ou frutas frescas.
+
+---
+
+### **2. Dieta Low Carb**
+#### **Definição:**
+A dieta low carb (baixo carboidrato) reduz a ingestão de carboidratos, priorizando proteínas e gorduras saudáveis. O objetivo é controlar os níveis de insulina, promover a perda de peso e melhorar a saúde metabólica.
+
+#### **Como fazer:**
+- **Distribuição de macronutrientes:** Aproximadamente 10-30% de carboidratos, 30-40% de proteínas e 30-40% de gorduras.
+- **Alimentos permitidos:**
+  - Proteínas: carnes magras, peixes, ovos, tofu.
+  - Gorduras: azeite, abacate, manteiga ghee, oleaginosas.
+  - Vegetais low carb: folhas verdes, brócolis, couve-flor, abobrinha.
+  - Frutas low carb: morango, mirtilo, abacate.
+- **Evitar:** Açúcares, grãos refinados (pão branco, arroz branco), batata, massas.
+- **Exemplo de dia:**
+  - Café da manhã: Ovos mexidos com espinafre e abacate.
+  - Almoço: Salada de frango com abacate e azeite.
+  - Jantar: Filé de peixe com legumes grelhados.
+  - Lanches: Queijo cottage com nozes ou palitos de pepino com homus.
+
+---
+
+### **3. Dieta Mediterrânea**
+#### **Definição:**
+A dieta mediterrânea é inspirada nos hábitos alimentares de países como Grécia e Itália. Rica em vegetais, frutas, grãos integrais, azeite e peixes, ela é associada à longevidade e à saúde cardiovascular.
+
+#### **Como fazer:**
+- **Distribuição de macronutrientes:** Aproximadamente 50% de carboidratos, 20% de proteínas e 30% de gorduras.
+- **Alimentos permitidos:**
+  - Gorduras saudáveis: azeite de oliva, nozes, sementes.
+  - Proteínas: peixes (salmão, sardinha), frango, ovos, leguminosas.
+  - Carboidratos: grãos integrais (quinoa, cevada), frutas, vegetais.
+  - Laticínios: queijos (feta, queijo de cabra), iogurte grego.
+- **Evitar:** Alimentos processados, carnes vermelhas em excesso, açúcares refinados.
+- **Exemplo de dia:**
+  - Café da manhã: Iogurte grego com mel e nozes.
+  - Almoço: Salada grega com queijo feta, tomate e azeite.
+  - Jantar: Peixe grelhado com legumes e quinoa.
+  - Lanches: Azeitonas, queijo e frutas frescas.
+
+---
+
+### **4. Dieta Cetogênica**
+#### **Definição:**
+A dieta cetogênica é uma dieta muito baixa em carboidratos e alta em gorduras, com o objetivo de induzir o estado de cetose, onde o corpo queima gordura como principal fonte de energia.
+
+#### **Como fazer:**
+- **Distribuição de macronutrientes:** Aproximadamente 5-10% de carboidratos, 20-25% de proteínas e 70-75% de gorduras.
+- **Alimentos permitidos:**
+  - Gorduras: azeite, manteiga, óleo de coco, abacate, oleaginosas.
+  - Proteínas: carnes, peixes, ovos, queijos.
+  - Vegetais low carb: folhas verdes, brócolis, couve-flor, abobrinha.
+- **Evitar:** Açúcares, grãos, frutas (exceto pequenas porções de berries), legumes ricos em carboidratos.
+- **Exemplo de dia:**
+  - Café da manhã: Ovos com bacon e abacate.
+  - Almoço: Salada de frango com azeite e queijo.
+  - Jantar: Bife com couve-flor gratinada.
+  - Lanches: Queijo coalho com azeitonas ou ovos cozidos.
+
+---
+
+### **Resumo das Características Principais:**
+| **Dieta**         | **Foco**                              | **Benefícios**                                           | **Desafios**                                   |
+|---------------------|---------------------------------------|----------------------------------------------------------|-----------------------------------------------|
+| **Balanceada**     | Equilíbrio de nutrientes              | Saúde geral, fácil de seguir                             | Risco de excesso de calorias se não controlada|
+| **Low Carb**       | Redução de carboidratos               | Perda de peso, controle glicêmico                        | Adaptação inicial pode ser difícil            |
+| **Mediterrânea**   | Alimentos naturais e integrais        | Saúde cardiovascular, longevidade                        | Pode ser mais cara devido a ingredientes frescos|
+| **Cetogênica**     | Alta gordura, baixo carboidrato       | Perda de peso rápida, controle de açúcar no sangue       | Restritiva, difícil de manter a longo prazo  |
+
+### Escolha a dieta que melhor se adapta ao seu estilo de vida, objetivos de saúde e preferências alimentares!
+
 **Cardápio Mensal para Perda de Peso (IMC ≥30)**
 
 ### **Dias 1 a 30**
