@@ -99,139 +99,139 @@ Cada dia possui opções adaptadas para diferentes dietas e objetivos calóricos
      
 **Almoço (10 Opções por Dieta):**
 - **Balanceado:**
- * | Peito de frango grelhado + arroz integral + feijão + salada variada
- * | Peixe assado com batata-doce 
- * | Omelete de legumes 
- * | Quibe assado com quinoa 
- * | Bife com purê de mandioquinha 
- * | Salada completa com atum 
- * | Frango xadrez com arroz integral 
- * | Macarrão integral ao molho sugo 
- * | Sopa de lentilha com frango 
- * | Tofu grelhado com legumes.
+  * | Peito de frango grelhado + arroz integral + feijão + salada variada
+  * | Peixe assado com batata-doce 
+  * | Omelete de legumes 
+  * | Quibe assado com quinoa 
+  * | Bife com purê de mandioquinha 
+  * | Salada completa com atum 
+  * | Frango xadrez com arroz integral 
+  * | Macarrão integral ao molho sugo 
+  * | Sopa de lentilha com frango 
+  * | Tofu grelhado com legumes.
 - **Low Carb:**
- * | Frango grelhado com couve | Peixe ao molho de ervas | Salada de folhas com atum 
- * | Carne vermelha com brócolis na manteiga 
- * | Omelete recheada com queijo e tomate 
- * | Lasanha de abobrinha 
- * | Salmão com purê de couve-flor 
- * | Espaguete de abobrinha com frango 
- * | Risoto de couve-flor 
- * | Costelinha de porco com legumes.
+  * | Frango grelhado com couve | Peixe ao molho de ervas | Salada de folhas com atum 
+  * | Carne vermelha com brócolis na manteiga 
+  * | Omelete recheada com queijo e tomate 
+  * | Lasanha de abobrinha 
+  * | Salmão com purê de couve-flor 
+  * | Espaguete de abobrinha com frango 
+  * | Risoto de couve-flor 
+  * | Costelinha de porco com legumes.
 - **Mediterrânea:**
- * | Salmão grelhado + quinoa 
- * | Cuscuz marroquino com frango 
- * | Bacalhau com azeite e batatas 
- * | Salada de folhas verdes com grão-de-bico 
- * | Frango ao molho de tomate e ervas 
- * | Vegetais assados com queijo feta 
- * | Peixe cozido com legumes 
- * | Macarrão de arroz com molho pesto 
- * | Berinjela recheada com carne moída 
- * | Risoto de cogumelos.
+  * | Salmão grelhado + quinoa 
+  * | Cuscuz marroquino com frango 
+  * | Bacalhau com azeite e batatas 
+  * | Salada de folhas verdes com grão-de-bico 
+  * | Frango ao molho de tomate e ervas 
+  * | Vegetais assados com queijo feta 
+  * | Peixe cozido com legumes 
+  * | Macarrão de arroz com molho pesto 
+  * | Berinjela recheada com carne moída 
+  * | Risoto de cogumelos.
 - **Cetogênica:**
- * | Picanha grelhada com brócolis 
- * | Frango cremoso com queijo 
- * | Carne de porco assada 
- * | Hambúrguer artesanal sem pão 
- * | Peixe frito com manteiga 
- * | Purê de abóbora com creme de leite 
- * | Lasanha de berinjela 
- * | Salada de folhas com azeite e queijo 
- * | Ensopado de carne com bacon 
- * | Costela bovina assada.
+  * | Picanha grelhada com brócolis 
+  * | Frango cremoso com queijo 
+  * | Carne de porco assada 
+  * | Hambúrguer artesanal sem pão 
+  * | Peixe frito com manteiga 
+  * | Purê de abóbora com creme de leite 
+  * | Lasanha de berinjela 
+  * | Salada de folhas com azeite e queijo 
+  * | Ensopado de carne com bacon 
+  * | Costela bovina assada.
 
 **Lanche da Tarde (10 Opções por Dieta):**
 - **Balanceado:**
- * | Barra de cereais integrais 
- * | Maçã com pasta de amendoim 
- * | Iogurte natural com granola 
- * | Mix de frutas secas 
- * | Queijo branco com tomate cereja 
- * | Pão integral com cottage 
- * | Shake proteico caseiro 
- * | Ovos cozidos 
- * | Castanhas e nozes 
- * | Chá verde com torrada integral.
+  * | Barra de cereais integrais 
+  * | Maçã com pasta de amendoim 
+  * | Iogurte natural com granola 
+  * | Mix de frutas secas 
+  * | Queijo branco com tomate cereja 
+  * | Pão integral com cottage 
+  * | Shake proteico caseiro 
+  * | Ovos cozidos 
+  * | Castanhas e nozes 
+  * | Chá verde com torrada integral.
 - **Low Carb:**
- * | Queijo coalho grelhado 
- * | Pasta de amendoim natural com coco ralado 
- * | Muffin de queijo com linhaça 
- * | Salmão defumado com cream cheese 
- * | Mix de castanhas 
- * | Ovos de codorna 
- * | Iogurte natural com chia 
- * | Chips de coco 
- * | Pasta de abacate com limão 
- * | Chocolate 85% cacau.
+  * | Queijo coalho grelhado 
+  * | Pasta de amendoim natural com coco ralado 
+  * | Muffin de queijo com linhaça 
+  * | Salmão defumado com cream cheese 
+  * | Mix de castanhas 
+  * | Ovos de codorna 
+  * | Iogurte natural com chia 
+  * | Chips de coco 
+  * | Pasta de abacate com limão 
+  * | Chocolate 85% cacau.
 - **Mediterrânea:**
- * | Nozes e damasco seco 
- * | Pão de fermentação natural com azeite 
- * | Queijo feta com pepino 
- * | Iogurte natural com mel 
- * | Salada de frutas com sementes 
- * | Pasta de grão-de-bico com torradas 
- * | Castanhas com chá de ervas 
- * | Mix de azeitonas e queijo 
- * | Barrinha de sementes 
- * | Uvas com nozes.
+  * | Nozes e damasco seco 
+  * | Pão de fermentação natural com azeite 
+  * | Queijo feta com pepino 
+  * | Iogurte natural com mel 
+  * | Salada de frutas com sementes 
+  * | Pasta de grão-de-bico com torradas 
+  * | Castanhas com chá de ervas 
+  * | Mix de azeitonas e queijo 
+  * | Barrinha de sementes 
+  * | Uvas com nozes.
 - **Cetogênica:**
- * | Bacon crocante 
- * | Creme de leite com cacau 
- * | Azeitonas recheadas com queijo 
- * | Muffin de queijo e frango 
- * | Salame artesanal 
- * | Manteiga de amêndoas 
- * | Chips de parmesão 
- * | Chocolate 85% cacau 
- * | Queijo minas com azeite 
- * | Pasta de atum com abacate.
+  * | Bacon crocante 
+  * | Creme de leite com cacau 
+  * | Azeitonas recheadas com queijo 
+  * | Muffin de queijo e frango 
+  * | Salame artesanal 
+  * | Manteiga de amêndoas 
+  * | Chips de parmesão 
+  * | Chocolate 85% cacau 
+  * | Queijo minas com azeite 
+  * | Pasta de atum com abacate.
 
 **Jantar (10 Opções por Dieta):**
 - **Balanceado:**
- * | Sopa de legumes com frango 
- * | Omelete de queijo e tomate 
- * | Salada completa com atum 
- * | Peito de frango grelhado com quinoa 
- * | Wrap integral de frango e cottage 
- * | Peixe assado com purê de batata-doce 
- * | Tofu grelhado com vegetais 
- * | Sanduíche natural de peito de peru 
- * | Sopa de lentilha com cenoura 
- * | Salada de grão-de-bico com tomate e pepino.
+  * | Sopa de legumes com frango 
+  * | Omelete de queijo e tomate 
+  * | Salada completa com atum 
+  * | Peito de frango grelhado com quinoa 
+  * | Wrap integral de frango e cottage 
+  * | Peixe assado com purê de batata-doce 
+  * | Tofu grelhado com vegetais 
+  * | Sanduíche natural de peito de peru 
+  * | Sopa de lentilha com cenoura 
+  * | Salada de grão-de-bico com tomate e pepino.
 - **Low Carb:**
- * | Filé de frango com queijo e espinafre 
- * | Sopa de abóbora com frango desfiado 
- * | Omelete recheada com queijo e ervas 
- * | Peixe grelhado com purê de couve-flor 
- * | Hambúrguer caseiro sem pão 
- * | Salada de folhas com frango grelhado 
- * | Lasanha de berinjela 
- * | Strogonoff de frango com creme de leite 
- * | Pizza de queijo e frango com massa de couve-flor 
- * | Ensopado de carne com brócolis.
+  * | Filé de frango com queijo e espinafre 
+  * | Sopa de abóbora com frango desfiado 
+  * | Omelete recheada com queijo e ervas 
+  * | Peixe grelhado com purê de couve-flor 
+  * | Hambúrguer caseiro sem pão 
+  * | Salada de folhas com frango grelhado 
+  * | Lasanha de berinjela 
+  * | Strogonoff de frango com creme de leite 
+  * | Pizza de queijo e frango com massa de couve-flor 
+  * | Ensopado de carne com brócolis.
 - **Mediterrânea:**
- * | Peixe assado com legumes 
- * | Sopa de tomate com manjericão 
- * | Salada grega com queijo feta 
- * | Omelete de espinafre com azeite 
- * | Frango grelhado com cuscuz marroquino 
- * | Wrap de salmão defumado e abacate 
- * | Berinjela recheada com quinoa e tomate 
- * | Ensopado de lentilhas com ervas 
- * | Risoto integral de cogumelos 
- * | Salada de folhas verdes com queijo de cabra e nozes.
+  * | Peixe assado com legumes 
+  * | Sopa de tomate com manjericão 
+  * | Salada grega com queijo feta 
+  * | Omelete de espinafre com azeite 
+  * | Frango grelhado com cuscuz marroquino 
+  * | Wrap de salmão defumado e abacate 
+  * | Berinjela recheada com quinoa e tomate 
+  * | Ensopado de lentilhas com ervas 
+  * | Risoto integral de cogumelos 
+  * | Salada de folhas verdes com queijo de cabra e nozes.
 - **Cetogênica:**
- * | Bife com manteiga e alho 
- * | Ensopado de carne com bacon 
- * | Salmão grelhado com molho de manteiga 
- * | Hambúrguer artesanal sem pão 
- * | Omelete de queijo e bacon 
- * | Pizza de queijo e frango com massa de amêndoas 
- * | Frango assado com queijo derretido 
- * | Strogonoff de carne com creme de leite 
- * | Purê de couve-flor com queijo cheddar 
- * | Espaguete de abobrinha com carne moída.
+  * | Bife com manteiga e alho 
+  * | Ensopado de carne com bacon 
+  * | Salmão grelhado com molho de manteiga 
+  * | Hambúrguer artesanal sem pão 
+  * | Omelete de queijo e bacon 
+  * | Pizza de queijo e frango com massa de amêndoas 
+  * | Frango assado com queijo derretido 
+  * | Strogonoff de carne com creme de leite 
+  * | Purê de couve-flor com queijo cheddar 
+  * | Espaguete de abobrinha com carne moída.
 
 ### **Semana 1**
 (Dias 2 a 7 com variações seguindo a mesma estrutura)
