@@ -95,6 +95,7 @@ Cada dia possui opções adaptadas para diferentes dietas e objetivos calóricos
    * | Creme de leite com cacau
    * | Chocolate 85% cacau
    * | Azeitonas recheadas com queijo.
+     
 **Almoço (10 Opções por Dieta):**
 - **Balanceado:**
  * | Peito de frango grelhado + arroz integral + feijão + salada variada
