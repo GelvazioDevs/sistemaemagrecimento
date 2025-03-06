@@ -6,7 +6,14 @@ Cada dia possui opções adaptadas para diferentes dietas e objetivos calóricos
 #### **Semana 1**
 ### **Dia 1**
 **Café da Manhã (10 Opções por Dieta):**
-- **Balanceado:** Omelete de espinafre e queijo cottage + pão integral | Iogurte com granola e frutas | Mingau de aveia com banana e mel | Panqueca de aveia com pasta de amendoim | Crepioca recheada com frango e tomate | Tapioca com queijo branco e orégano | Smoothie de morango e chia | Pão integral com ricota e tomate | Leite com cacau e torradas integrais | Queijo minas com mel e nozes.
+- **Balanceado:** Omelete de espinafre e queijo cottage + pão integral
+  *| Iogurte com granola e frutas
+  *| Mingau de aveia com banana e mel
+  *| Panqueca de aveia com pasta de amendoim
+  *| Crepioca recheada com frango e tomate
+  *| Tapioca com queijo branco e orégano
+  *| Smoothie de morango e chia
+  *| Pão integral com ricota e tomate | Leite com cacau e torradas integrais | Queijo minas com mel e nozes.
 - **Low Carb:** Omelete de queijo e abacate | Panqueca de coco com creme de leite | Iogurte natural com sementes e coco ralado | Ovos mexidos com queijo e ervas | Smoothie de abacate e chia | Pão de amêndoas com manteiga | Queijo coalho grelhado | Salmão defumado com cream cheese | Muffin de ovos com espinafre | Mix de castanhas e queijo.
 - **Mediterrânea:** Iogurte natural com mel e nozes | Pão de fermentação natural com azeite | Frutas com cottage e mel | Ovos cozidos com azeite e ervas | Panqueca de aveia com iogurte | Salada de frutas com iogurte grego | Pasta de grão-de-bico com torradas | Suco de laranja natural com nozes | Peito de peru com queijo branco | Cereal integral com leite.
 - **Cetogênica:** Abacate com parmesão e azeite | Ovos mexidos na manteiga | Bacon com ovos cozidos | Creme de leite com cacau e stevia | Panqueca de farinha de coco com manteiga | Smoothie de coco com canela | Castanhas e queijo cheddar | Muffin de queijo com frango | Salmão defumado com cream cheese | Chocolate 85% cacau e amêndoas.
