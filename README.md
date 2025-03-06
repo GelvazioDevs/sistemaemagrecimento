@@ -17,16 +17,84 @@ Cada dia possui opções adaptadas para diferentes dietas e objetivos calóricos
    * Pão integral com ricota e tomate 
    * Leite com cacau e torradas integrais 
    * Queijo minas com mel e nozes.
-- **Low Carb:** Omelete de queijo e abacate | Panqueca de coco com creme de leite | Iogurte natural com sementes e coco ralado | Ovos mexidos com queijo e ervas | Smoothie de abacate e chia | Pão de amêndoas com manteiga | Queijo coalho grelhado | Salmão defumado com cream cheese | Muffin de ovos com espinafre | Mix de castanhas e queijo.
-- **Mediterrânea:** Iogurte natural com mel e nozes | Pão de fermentação natural com azeite | Frutas com cottage e mel | Ovos cozidos com azeite e ervas | Panqueca de aveia com iogurte | Salada de frutas com iogurte grego | Pasta de grão-de-bico com torradas | Suco de laranja natural com nozes | Peito de peru com queijo branco | Cereal integral com leite.
-- **Cetogênica:** Abacate com parmesão e azeite | Ovos mexidos na manteiga | Bacon com ovos cozidos | Creme de leite com cacau e stevia | Panqueca de farinha de coco com manteiga | Smoothie de coco com canela | Castanhas e queijo cheddar | Muffin de queijo com frango | Salmão defumado com cream cheese | Chocolate 85% cacau e amêndoas.
-
+- **Low Carb:**
+   * Omelete de queijo e abacate
+   * Panqueca de coco com creme de leite
+   * Iogurte natural com sementes e coco ralado
+   * | Ovos mexidos com queijo e ervas
+   * | Smoothie de abacate e chia
+   * | Pão de amêndoas com manteiga
+   * | Queijo coalho grelhado
+   * | Salmão defumado com cream cheese
+   * | Muffin de ovos com espinafre
+   * | Mix de castanhas e queijo.
+- **Mediterrânea:**
+   * Iogurte natural com mel e nozes
+   * | Pão de fermentação natural com azeite
+   * | Frutas com cottage e mel
+   * | Ovos cozidos com azeite e ervas
+   * | Panqueca de aveia com iogurte
+   * | Salada de frutas com iogurte grego
+   * | Pasta de grão-de-bico com torradas
+   * | Suco de laranja natural com nozes
+   * | Peito de peru com queijo branco
+   * | Cereal integral com leite.
+- **Cetogênica:**
+   * Abacate com parmesão e azeite
+   * | Ovos mexidos na manteiga
+   * | Bacon com ovos cozidos
+   * | Creme de leite com cacau e stevia
+   * | Panqueca de farinha de coco com manteiga
+   * | Smoothie de coco com canela
+   * | Castanhas e queijo cheddar
+   * | Muffin de queijo com frango
+   * | Salmão defumado com cream cheese
+   * | Chocolate 85% cacau e amêndoas.
 **Lanche da Manhã (10 Opções por Dieta):**
-- **Balanceado:** Castanhas (30g) | Maçã com pasta de amendoim | Iogurte com mel | Barrinha de cereais | Pão integral com queijo cottage | Chá verde com torrada integral | Banana com aveia | Mix de frutas secas | Ovos cozidos | Leite com cacau.
-- **Low Carb:** Queijo minas frescal | Amêndoas | Abacate com limão | Pasta de amendoim pura | Ovos de codorna | Salmão defumado | Mix de castanhas | Coco fresco | Muffin de queijo | Chá verde com óleo de coco.
-- **Mediterrânea:** Amêndoas | Iogurte natural com mel | Queijo feta com tomate cereja | Pão de fermentação natural com azeite | Nozes e damasco seco | Frutas com mel e chia | Salada de pepino com iogurte | Mix de sementes | Pasta de grão-de-bico | Chá de ervas com torrada integral.
-- **Cetogênica:** Pasta de amendoim natural | Queijo coalho grelhado | Ovos mexidos com queijo | Castanhas-do-pará | Bacon crocante | Manteiga de amêndoas | Salame artesanal | Creme de leite com cacau | Chocolate 85% cacau | Azeitonas recheadas com queijo.
-
+- **Balanceado:**
+   * Castanhas (30g)
+   * | Maçã com pasta de amendoim
+   * | Iogurte com mel
+   * | Barrinha de cereais
+   * | Pão integral com queijo cottage
+   * | Chá verde com torrada integral
+   * | Banana com aveia
+   * | Mix de frutas secas
+   * | Ovos cozidos
+   * | Leite com cacau.
+- **Low Carb:**
+   * Queijo minas frescal
+   * | Amêndoas
+   * | Abacate com limão
+   * | Pasta de amendoim pura
+   * | Ovos de codorna
+   * | Salmão defumado
+   * | Mix de castanhas
+   * | Coco fresco
+   * | Muffin de queijo
+   * | Chá verde com óleo de coco.
+- **Mediterrânea:**
+   * Amêndoas
+   * | Iogurte natural com mel
+   * | Queijo feta com tomate cereja
+   * | Pão de fermentação natural com azeite
+   * | Nozes e damasco seco
+   * | Frutas com mel e chia
+   * | Salada de pepino com iogurte
+   * | Mix de sementes
+   * | Pasta de grão-de-bico
+   * | Chá de ervas com torrada integral.
+- **Cetogênica:**
+   * | Pasta de amendoim natural
+   * | Queijo coalho grelhado
+   * | Ovos mexidos com queijo
+   * | Castanhas-do-pará
+   * | Bacon crocante
+   * | Manteiga de amêndoas
+   * | Salame artesanal
+   * | Creme de leite com cacau
+   * | Chocolate 85% cacau
+   * | Azeitonas recheadas com queijo.
 **Almoço (10 Opções por Dieta):**
 - **Balanceado:** Peito de frango grelhado + arroz integral + feijão + salada variada | Peixe assado com batata-doce | Omelete de legumes | Quibe assado com quinoa | Bife com purê de mandioquinha | Salada completa com atum | Frango xadrez com arroz integral | Macarrão integral ao molho sugo | Sopa de lentilha com frango | Tofu grelhado com legumes.
 - **Low Carb:** Frango grelhado com couve | Peixe ao molho de ervas | Salada de folhas com atum | Carne vermelha com brócolis na manteiga | Omelete recheada com queijo e tomate | Lasanha de abobrinha | Salmão com purê de couve-flor | Espaguete de abobrinha com frango | Risoto de couve-flor | Costelinha de porco com legumes.
