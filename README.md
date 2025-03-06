@@ -1,5 +1,5 @@
-**Principais tipos de Dieta**
-Aqui está a definição de cada tipo de dieta e como implementá-las de maneira prática:
+# Principais tipos de Dieta**
+## Aqui está a definição de cada tipo de dieta e como implementá-las de maneira prática:
 
 ---
 
