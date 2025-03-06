@@ -50,6 +50,7 @@ Cada dia possui opções adaptadas para diferentes dietas e objetivos calóricos
    * | Muffin de queijo com frango
    * | Salmão defumado com cream cheese
    * | Chocolate 85% cacau e amêndoas.
+     
 **Lanche da Manhã (10 Opções por Dieta):**
 - **Balanceado:**
    * | Castanhas (30g)
