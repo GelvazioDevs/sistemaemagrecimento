@@ -256,6 +256,85 @@ Cada dia possui opções adaptadas para diferentes dietas e objetivos calóricos
 | Macarrão | Macarrão integral | Espaguete de abobrinha | Macarrão de arroz | Macarrão de konjac |
 
 ---
+### **Tabela de Substituição Saudável 02**
+Aqui está uma tabela extensa com 30 opções alimentares para cada grupo de dieta (Balanceada, Low Carb, Mediterrânea e Cetogênica), incluindo substituições saudáveis e variações. As opções são organizadas por refeições (café da manhã, almoço, jantar e lanches).
+
+---
+
+### **Dieta Balanceada**
+| **Refeição**       | **Opção Principal**                     | **Substituições/Variações**                                                                 |
+|---------------------|-----------------------------------------|---------------------------------------------------------------------------------------------|
+| Café da manhã      | Omelete com espinafre e queijo          | Substitua queijo por tofu; espinafre por couve; adicione tomate ou cogumelos.               |
+|                     | Mingau de aveia com frutas              | Use leite vegetal (amêndoa, aveia); troque frutas por nozes ou sementes de chia.            |
+|                     | Pão integral com abacate                | Substitua pão por wrap de folha de alface; abacate por homus ou pasta de amendoim.          |
+| Almoço             | Arroz integral, feijão e frango grelhado| Substitua arroz por quinoa; frango por peixe ou tofu; adicione legumes no vapor.            |
+|                     | Salada de grão-de-bico com vegetais     | Troque grão-de-bico por lentilha; adicione abóbora assada ou beterraba ralada.              |
+|                     | Macarrão integral com molho de tomate   | Substitua macarrão por espaguete de abobrinha; molho de tomate por pesto.                   |
+| Jantar             | Peixe assado com batata-doce            | Troque peixe por frango; batata-doce por abóbora; adicione brócolis no vapor.               |
+|                     | Sopa de legumes com quinoa              | Substitua quinoa por arroz integral; adicione frango desfiado ou tofu.                      |
+|                     | Stir-fry de legumes com frango          | Troque frango por carne magra ou camarão; use molho de gengibre e alho.                     |
+| Lanches            | Iogurte natural com granola             | Substitua iogurte por kefir; granola por sementes de linhaça ou chia.                       |
+|                     | Mix de castanhas e frutas secas         | Troque frutas secas por chocolate amargo (70% cacau); adicione coco ralado.                 |
+|                     | Palitos de cenoura com homus            | Substitua cenoura por pepino; homus por guacamole.                                          |
+
+---
+
+### **Dieta Low Carb**
+| **Refeição**       | **Opção Principal**                     | **Substituições/Variações**                                                                 |
+|---------------------|-----------------------------------------|---------------------------------------------------------------------------------------------|
+| Café da manhã      | Ovos mexidos com abacate                | Substitua abacate por espinafre refogado; adicione queijo cottage.                          |
+|                     | Smoothie de espinafre e abacate         | Troque abacate por couve; use leite de amêndoa ou coco.                                     |
+|                     | Panqueca de ovos e banana               | Substitua banana por abóbora cozida; adicione canela ou cacau em pó.                        |
+| Almoço             | Salada de frango com abacate            | Troque frango por atum; abacate por nozes; adicione azeite e limão.                         |
+|                     | Espaguete de abobrinha com molho pesto  | Substitua pesto por molho de tomate caseiro; adicione almôndegas de frango.                 |
+|                     | Filé de peixe com legumes grelhados     | Troque peixe por frango; legumes por couve-flor assada.                                     |
+| Jantar             | Frango ao curry com couve-flor          | Substitua frango por carne magra; couve-flor por brócolis.                                  |
+|                     | Omelete de queijo e espinafre           | Troque queijo por tofu; espinafre por cogumelos.                                            |
+|                     | Carne moída com abóbora refogada        | Substitua carne moída por frango desfiado; abóbora por chuchu.                              |
+| Lanches            | Queijo cottage com nozes               | Troque nozes por sementes de abóbora; adicione azeitonas.                                   |
+|                     | Ovos cozidos                           | Substitua ovos por fatias de peito de peru; adicione palitos de pepino.                     |
+|                     | Abacate com limão e sal                 | Adicione sementes de chia ou gergelim; substitua limão por azeite.                          |
+
+---
+
+### **Dieta Mediterrânea**
+| **Refeição**       | **Opção Principal**                     | **Substituições/Variações**                                                                 |
+|---------------------|-----------------------------------------|---------------------------------------------------------------------------------------------|
+| Café da manhã      | Iogurte grego com mel e nozes          | Substitua mel por frutas frescas; nozes por sementes de girassol.                           |
+|                     | Torrada integral com azeite e tomate   | Troque tomate por abacate; azeite por homus.                                                |
+|                     | Omelete de legumes                     | Substitua legumes por espinafre e cogumelos; adicione queijo feta.                          |
+| Almoço             | Salada grega com queijo feta           | Troque feta por tofu; adicione grão-de-bico ou atum.                                        |
+|                     | Peixe grelhado com legumes             | Substitua peixe por frango; legumes por quinoa.                                             |
+|                     | Cuscuz com legumes e azeite            | Troque cuscuz por bulgur; adicione frango desfiado ou grão-de-bico.                         |
+| Jantar             | Frango ao forno com batata-doce        | Substitua frango por peixe; batata-doce por abóbora.                                        |
+|                     | Sopa de lentilha com legumes           | Troque lentilha por grão-de-bico; adicione espinafre.                                       |
+|                     | Ratatouille com quinoa                 | Substitua quinoa por arroz integral; adicione queijo feta.                                  |
+| Lanches            | Azeitonas e queijo                     | Troque queijo por nozes; azeitonas por tomates secos.                                       |
+|                     | Homus com palitos de cenoura           | Substitua cenoura por pepino; homus por guacamole.                                          |
+|                     | Frutas frescas com nozes               | Troque nozes por sementes de chia; frutas por berries.                                      |
+
+---
+
+### **Dieta Cetogênica**
+| **Refeição**       | **Opção Principal**                     | **Substituições/Variações**                                                                 |
+|---------------------|-----------------------------------------|---------------------------------------------------------------------------------------------|
+| Café da manhã      | Ovos com bacon e abacate                | Substitua bacon por salmão defumado; abacate por espinafre refogado.                        |
+|                     | Smoothie de abacate e coco              | Troque abacate por espinafre; adicione whey protein sem açúcar.                             |
+|                     | Panqueca de queijo e ovos               | Substitua queijo por cream cheese; adicione canela ou cacau em pó.                          |
+| Almoço             | Salada de frango com azeite             | Troque frango por atum; adicione queijo feta ou abacate.                                    |
+|                     | Espaguete de abobrinha com molho pesto  | Substitua pesto por molho de queijo; adicione carne moída.                                  |
+|                     | Filé de peixe com brócolis              | Troque peixe por frango; brócolis por couve-flor.                                           |
+| Jantar             | Bife com couve-flor gratinada           | Substitua bife por frango; couve-flor por espinafre.                                        |
+|                     | Omelete de queijo e bacon               | Troque bacon por salmão defumado; queijo por cream cheese.                                  |
+|                     | Carne moída com abobrinha refogada      | Substitua abobrinha por couve-flor; adicione queijo derretido.                              |
+| Lanches            | Queijo coalho com azeitonas             | Troque azeitonas por nozes; queijo por fatias de peito de peru.                             |
+|                     | Ovos cozidos com maionese caseira       | Substitua maionese por abacate amassado; adicione bacon crocante.                           |
+|                     | Abacate com sal e azeite                | Adicione sementes de chia ou gergelim; substitua azeite por limão.                          |
+
+---
+
+Essa tabela oferece uma ampla variedade de opções para cada tipo de dieta, permitindo substituições e variações para atender às preferências individuais e necessidades nutricionais.
+---
 ### **Cronograma de Jejum e Atividades**
 - **IMC 30-34:** Jejum intermitente 12/12 + caminhada leve 30min/dia
 - **IMC 35-39:** Jejum intermitente 14/10 + musculação leve 3x/semana
